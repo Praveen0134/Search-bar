@@ -1,0 +1,16 @@
+div
+{
+    background-color: grey;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+   justify-content: center;
+}
+input:hover
+{
+    background-color: rgb(235, 230, 230);
+}
+img:hover
+{
+    zoom:101%;
+}
